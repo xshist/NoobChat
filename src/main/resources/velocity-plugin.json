@@ -1,0 +1,11 @@
+{
+  "id": "noobchat",
+  "name": "NoobChat",
+  "version": "3.0",
+  "authors": [
+    "iNoobSorry"
+  ],
+  "main": "org.inoobsorry.untitled.PrivateMessagePlugin",
+  "description": "Приватный плагин на личные сообщения для Velocity",
+  "dependencies": []
+}
